@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Login Page</title>
 </head>
-<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('background.jpg') no-repeat center center fixed; background-size: cover; display: flex; justify-content: center; align-items: center; height: 100vh;">
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('./background.jpg') no-repeat center center fixed; background-size: cover; display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="width: 100%; max-width: 400px; padding: 30px; background: rgba(255, 255, 255, 0.95); border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
-    <img src="logo.png" alt="Logo" style="width: 70px; margin-bottom: 20px;">
+    <img src="./logo.png" alt="Logo" style="width: 70px; margin-bottom: 20px;">
     <h1 style="font-size: 24px; color: #333; margin-bottom: 20px;">User Log In</h1>
     <form>
       <div style="margin-bottom: 15px; text-align: left;">
